@@ -1,0 +1,13 @@
+D:\HP\ci-project-main\ci-project-main\MVC\CI-Platform\CI-Platform_web.Entities\obj\Debug\net6.0\CI-Platform_web.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\HP\ci-project-main\ci-project-main\MVC\CI-Platform\CI-Platform_web.Entities\obj\Debug\net6.0\CI-Platform_web.Entities.AssemblyInfoInputs.cache
+D:\HP\ci-project-main\ci-project-main\MVC\CI-Platform\CI-Platform_web.Entities\obj\Debug\net6.0\CI-Platform_web.Entities.AssemblyInfo.cs
+D:\HP\ci-project-main\ci-project-main\MVC\CI-Platform\CI-Platform_web.Entities\obj\Debug\net6.0\CI-Platform_web.Entities.csproj.CoreCompileInputs.cache
+D:\HP\ci-project-main\ci-project-main\MVC\CI-Platform\CI-Platform_web.Entities\bin\Debug\net6.0\CI-Platform_web.Entities.deps.json
+D:\HP\ci-project-main\ci-project-main\MVC\CI-Platform\CI-Platform_web.Entities\bin\Debug\net6.0\CI-Platform_web.Entities.runtimeconfig.json
+D:\HP\ci-project-main\ci-project-main\MVC\CI-Platform\CI-Platform_web.Entities\bin\Debug\net6.0\CI-Platform_web.Entities.dll
+D:\HP\ci-project-main\ci-project-main\MVC\CI-Platform\CI-Platform_web.Entities\bin\Debug\net6.0\ref\CI-Platform_web.Entities.dll
+D:\HP\ci-project-main\ci-project-main\MVC\CI-Platform\CI-Platform_web.Entities\bin\Debug\net6.0\CI-Platform_web.Entities.pdb
+D:\HP\ci-project-main\ci-project-main\MVC\CI-Platform\CI-Platform_web.Entities\obj\Debug\net6.0\CI-Platform_web.Entities.dll
+D:\HP\ci-project-main\ci-project-main\MVC\CI-Platform\CI-Platform_web.Entities\obj\Debug\net6.0\ref\CI-Platform_web.Entities.dll
+D:\HP\ci-project-main\ci-project-main\MVC\CI-Platform\CI-Platform_web.Entities\obj\Debug\net6.0\CI-Platform_web.Entities.pdb
+D:\HP\ci-project-main\ci-project-main\MVC\CI-Platform\CI-Platform_web.Entities\obj\Debug\net6.0\CI-Platform_web.Entities.genruntimeconfig.cache

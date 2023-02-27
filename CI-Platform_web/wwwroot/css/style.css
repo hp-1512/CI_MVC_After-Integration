@@ -4,6 +4,14 @@
     /*-webkit-transition: all 0.3s ease-in;*/
 }
 /*for smooth scrolling*/
+/*#nav-bar > .modal-backdrop {
+
+    z-index: auto;
+  
+}
+#nav-bar > .offcanvas-backdrop {
+    z-index: 1020;
+}*/
 .reveal {
     position: relative;
     transform: translateY(150px);

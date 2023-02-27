@@ -20,7 +20,7 @@
         height:auto;
     }
     #missionPeriod{
-        transform: translateY(-54%);
+        
         background: white;
         border-radius:20px;
     }
@@ -226,13 +226,12 @@
                                 <h3 class="card-title px-3">CSR initiative stands for Coffee and Farmer Equity</h3>
                                 <p class="card-text px-3">Some quick example text to build on the card title and make up the bulk of
                                     the card's content.</p>
-                                <div class="border-top d-flex justify-content-center">
+                                <div class="border-top d-flex justify-content-center position-relative">
                                     <div class="border text-center px-3 position-absolute" id="missionPeriod">
                                         <small>Plant 10,000 Trees</small>
                                     </div>
                                 </div>
-                                <div class="border-bottom mt-4 position-relative" id="missionInfo">
-                               top            border-color                
+                                <div class="border-bottom mt-4 position-relative" id="missionInfo">                
                                     <div class="d-flex justify-content-sm-around justify-content-between align-items-center px-4 py-3 mission-time-goal-indicators">
                                         <div class="d-flex align-items-center">
                                             <img class="me-2" height="20" src="~/CI Platform Assets/Seats-left.png" alt="">
@@ -338,14 +337,14 @@
               
                     @*Documents*@
                     <h3>Documents</h3>
-                    <div class="d-flex">
-                      <div class="docs btn border rounded-pill me-3">
+                    <div class="d-flex row">
+                      <div class="docs btn border rounded-pill me-3 col-12 col-md-4 col-sm-12">
                         <img src="~/CI Platform Assets/pdf.png"/><small>lorem-ipsum.pdf</small>
                       </div>
-                      <div class="docs btn border rounded-pill me-3">
+                      <div class="docs btn border rounded-pill me-3 col-12 col-md-4 col-sm-12">
                         <img src="~/CI Platform Assets/doc.png"/><small>at_vero_eos_accusamus.doc</small>
                       </div>
-                      <div class="docs btn border rounded-pill">
+                      <div class="docs btn border rounded-pill col-12 col-md-4 col-sm-12">
                         <img src="~/CI Platform Assets/xlsx.png"/><small>important_doc.xls</small>
                       </div>
                     </div>
@@ -450,13 +449,13 @@
                             </div>
                             <div class="row mx-2 py-3 ">
                                 <small class="col-4">Rating</small>
-                                <span  class="col-8 d-flex">
-                                    <span id="ratings">
-                                    <img src="~/CI Platform Assets/selected-star.png" />
-                                    <img src="~/CI Platform Assets/selected-star.png" />
-                                    <img src="~/CI Platform Assets/selected-star.png" />
-                                    <img src="~/CI Platform Assets/selected-star.png" />
-                                    <img src="~/CI Platform Assets/selected-star.png" />
+                                <span  class="col-8 ">
+                                    <span id="ratings d-flex">
+                                        <img src="~/CI Platform Assets/selected-star.png" />
+                                        <img src="~/CI Platform Assets/selected-star.png" />
+                                        <img src="~/CI Platform Assets/selected-star.png" />
+                                        <img src="~/CI Platform Assets/selected-star.png" />
+                                        <img src="~/CI Platform Assets/selected-star.png" />
                                     </span>
                                     <small>(by 125 Volunteers)</small>
                                 </span>

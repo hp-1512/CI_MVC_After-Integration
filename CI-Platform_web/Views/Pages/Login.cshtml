@@ -1,4 +1,4 @@
-﻿
+﻿@model CI_Platform_web.Entities.ViewModels.UserLoginModel
 @{
     ViewData["Title"] = "Login";
     Layout = "~/Views/Shared/_LayoutPages.cshtml";
@@ -70,8 +70,10 @@
 
             </div>
             <div id="form" class="col-lg-4 col-md-12 col-sm-12 col-xs-12 align-self-center">
-                        <form class="col-lg-10 col-md-10 col-sm-10 col-xs-10 mx-auto ">
-                            <div class="form-group">
+                        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10 mx-auto ">
+                @using (Html.BeginForm("Login", "Pages", FormMethod.Post))
+                {
+                    <div class="form-group">
                                 <label for="exampleInputEmail1" class="form-label">Email Address</label>
                                 <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
                                     placeholder="Enter Your Email ID" required>
@@ -87,7 +89,9 @@
                                 <p class="mt-3">Don't have an account? <a asp-controller="Pages" asp-action="Registration">Create an account</a></p>
                             </div>
                             
-                        </form>
+                    </div>
+                }
+                        
                         <div class="text-center align-bottom pp " >
                     
                                 <span style="font-size: 14px; color: gray">Privacy Policy</span>

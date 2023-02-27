@@ -75,7 +75,7 @@
 }
 
 .filters-section {
-    margin-top: 2%;
+    margin: 1% 0;
 }
 #submit-new-mission-btn {
     background-color: transparent;
@@ -84,7 +84,7 @@
     border-radius: 24px;
     font-size: 17px;
 }
-#submit-new-mission-btn :hover,
+#submit-new-mission-btn :hover
 {
     color: #ffff;
     background-color: #F88634;

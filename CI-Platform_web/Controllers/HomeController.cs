@@ -18,11 +18,11 @@ namespace CI_Platform_web.Controllers
             return View();
         }
         
-        public IActionResult noMission()
+        public IActionResult NoMission()
         {
             return View();
         }
-        public IActionResult missionPage()
+        public IActionResult MissionPage()
         {
             return View();
         }

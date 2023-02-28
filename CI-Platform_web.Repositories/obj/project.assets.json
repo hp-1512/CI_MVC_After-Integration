@@ -3301,11 +3301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HP\\ci-project-main\\ci-project-main\\MVC\\CI-Platform\\CI-Platform_web.Repositories\\CI-Platform_web.Repositories.csproj",
+      "projectUniqueName": "D:\\HP\\MVC\\CI-Platform_web.Repositories\\CI-Platform_web.Repositories.csproj",
       "projectName": "CI-Platform_web.Repositories",
-      "projectPath": "D:\\HP\\ci-project-main\\ci-project-main\\MVC\\CI-Platform\\CI-Platform_web.Repositories\\CI-Platform_web.Repositories.csproj",
+      "projectPath": "D:\\HP\\MVC\\CI-Platform_web.Repositories\\CI-Platform_web.Repositories.csproj",
       "packagesPath": "C:\\Users\\pci186\\.nuget\\packages\\",
-      "outputPath": "D:\\HP\\ci-project-main\\ci-project-main\\MVC\\CI-Platform\\CI-Platform_web.Repositories\\obj\\",
+      "outputPath": "D:\\HP\\MVC\\CI-Platform_web.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

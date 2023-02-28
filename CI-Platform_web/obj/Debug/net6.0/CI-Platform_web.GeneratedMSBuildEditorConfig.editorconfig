@@ -8,73 +8,73 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CI_Platform_web
 build_property.RootNamespace = CI_Platform_web
-build_property.ProjectDir = D:\HP\ci-project-main\ci-project-main\MVC\CI-Platform\CI-Platform_web\
+build_property.ProjectDir = D:\HP\MVC\CI-Platform_web\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = D:\HP\ci-project-main\ci-project-main\MVC\CI-Platform\CI-Platform_web
+build_property.MSBuildProjectDirectory = D:\HP\MVC\CI-Platform_web
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/HP/ci-project-main/ci-project-main/MVC/CI-Platform/CI-Platform_web/Views/Home/Index.cshtml]
+[D:/HP/MVC/CI-Platform_web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HP/ci-project-main/ci-project-main/MVC/CI-Platform/CI-Platform_web/Views/Home/MissionPage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNaXNzaW9uUGFnZS5jc2h0bWw=
+[D:/HP/MVC/CI-Platform_web/Views/Home/missionPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxtaXNzaW9uUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HP/ci-project-main/ci-project-main/MVC/CI-Platform/CI-Platform_web/Views/Home/NoMission.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOb01pc3Npb24uY3NodG1s
+[D:/HP/MVC/CI-Platform_web/Views/Home/noMission.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxub01pc3Npb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HP/ci-project-main/ci-project-main/MVC/CI-Platform/CI-Platform_web/Views/Home/Privacy.cshtml]
+[D:/HP/MVC/CI-Platform_web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HP/ci-project-main/ci-project-main/MVC/CI-Platform/CI-Platform_web/Views/Home/Storylistingpage.cshtml]
+[D:/HP/MVC/CI-Platform_web/Views/Home/Storylistingpage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdG9yeWxpc3RpbmdwYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HP/ci-project-main/ci-project-main/MVC/CI-Platform/CI-Platform_web/Views/Pages/ForgotPassword.cshtml]
+[D:/HP/MVC/CI-Platform_web/Views/Pages/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcRm9yZ290UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HP/ci-project-main/ci-project-main/MVC/CI-Platform/CI-Platform_web/Views/Pages/Login.cshtml]
+[D:/HP/MVC/CI-Platform_web/Views/Pages/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HP/ci-project-main/ci-project-main/MVC/CI-Platform/CI-Platform_web/Views/Pages/Registration.cshtml]
+[D:/HP/MVC/CI-Platform_web/Views/Pages/Registration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcUmVnaXN0cmF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HP/ci-project-main/ci-project-main/MVC/CI-Platform/CI-Platform_web/Views/Pages/ResetPassword.cshtml]
+[D:/HP/MVC/CI-Platform_web/Views/Pages/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcUmVzZXRQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HP/ci-project-main/ci-project-main/MVC/CI-Platform/CI-Platform_web/Views/Shared/Error.cshtml]
+[D:/HP/MVC/CI-Platform_web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HP/ci-project-main/ci-project-main/MVC/CI-Platform/CI-Platform_web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/HP/MVC/CI-Platform_web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HP/ci-project-main/ci-project-main/MVC/CI-Platform/CI-Platform_web/Views/_ViewImports.cshtml]
+[D:/HP/MVC/CI-Platform_web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HP/ci-project-main/ci-project-main/MVC/CI-Platform/CI-Platform_web/Views/_ViewStart.cshtml]
+[D:/HP/MVC/CI-Platform_web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HP/ci-project-main/ci-project-main/MVC/CI-Platform/CI-Platform_web/Views/Shared/_LayoutHeader.cshtml]
+[D:/HP/MVC/CI-Platform_web/Views/Shared/_LayoutHeader.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRIZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ow3jpba69d
 
-[D:/HP/ci-project-main/ci-project-main/MVC/CI-Platform/CI-Platform_web/Views/Shared/_LayoutPages.cshtml]
+[D:/HP/MVC/CI-Platform_web/Views/Shared/_LayoutPages.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRQYWdlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-j9oq0b1u6l
 
-[D:/HP/ci-project-main/ci-project-main/MVC/CI-Platform/CI-Platform_web/Views/Shared/_LayoutSingleHeader.cshtml]
+[D:/HP/MVC/CI-Platform_web/Views/Shared/_LayoutSingleHeader.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRTaW5nbGVIZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-y2m7muzc4a

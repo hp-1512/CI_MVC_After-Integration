@@ -6,34 +6,36 @@ namespace CI_Platform_web.Controllers
 {
     public class PagesController : Controller
     {
+        private readonly CIDbContext _dbContext;
+        private readonly ILogger<HomeController> _logger;
 
+        public PagesController(ILogger<HomeController> logger, CIDbContext dbContext)
+        {
+            _logger = logger;
+            _dbContext = dbContext; 
+        }
         [HttpGet]
-        public IActionResult Index()
+              
+        public IActionResult Login()
         {
             UserLoginModel _userLoginModel = new UserLoginModel();
             return View(_userLoginModel);
-        }
 
+        }
         [HttpPost]
-        public IActionResult Index(UserLoginModel _userLoginModel)
+        public IActionResult Login(UserLoginModel _userLoginModel)
         {
-            userDbContext _userDbContext = new userDbContext();
-            var status = _userDbContext.Users.Where(m => m.Email == _userLoginModel.Email && m.Password == _userLoginModel.Password).FirstOrDefault();
+            var status = _dbContext.Users.Where(m => m.Email == _userLoginModel.Email && m.Password == _userLoginModel.Password).FirstOrDefault();
             if (status == null)
             {
                 ViewBag.LoginStatus = 0;
             }
             else
             {
-                return RedirectToAction("Login", "Pages");
+                return RedirectToAction("Index", "Home");
             }
 
             return View(_userLoginModel);
-        }
-
-        public IActionResult Login()
-        {
-            return View()
         }
         public IActionResult ForgotPassword()
         {

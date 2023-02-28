@@ -4,7 +4,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddDbContext<userDbContext>();
+builder.Services.AddDbContext<CIDbContext>();
 var app = builder.Build();
 
 
@@ -25,6 +25,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=missionPage}/{id?}");
+    pattern: "{controller=Pages}/{action=Login}/{id?}");
 
 app.Run();

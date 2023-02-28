@@ -10298,11 +10298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HP\\ci-project-main\\ci-project-main\\MVC\\CI-Platform\\CI-Platform_web\\CI-Platform_web.csproj",
+      "projectUniqueName": "D:\\HP\\MVC\\CI-Platform_web\\CI-Platform_web.csproj",
       "projectName": "CI-Platform_web",
-      "projectPath": "D:\\HP\\ci-project-main\\ci-project-main\\MVC\\CI-Platform\\CI-Platform_web\\CI-Platform_web.csproj",
+      "projectPath": "D:\\HP\\MVC\\CI-Platform_web\\CI-Platform_web.csproj",
       "packagesPath": "C:\\Users\\pci186\\.nuget\\packages\\",
-      "outputPath": "D:\\HP\\ci-project-main\\ci-project-main\\MVC\\CI-Platform\\CI-Platform_web\\obj\\",
+      "outputPath": "D:\\HP\\MVC\\CI-Platform_web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -10324,11 +10324,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\HP\\ci-project-main\\ci-project-main\\MVC\\CI-Platform\\CI-Platform_web.Entities\\CI-Platform_web.Entities.csproj": {
-              "projectPath": "D:\\HP\\ci-project-main\\ci-project-main\\MVC\\CI-Platform\\CI-Platform_web.Entities\\CI-Platform_web.Entities.csproj"
+            "D:\\HP\\MVC\\CI-Platform_web.Entities\\CI-Platform_web.Entities.csproj": {
+              "projectPath": "D:\\HP\\MVC\\CI-Platform_web.Entities\\CI-Platform_web.Entities.csproj"
             },
-            "D:\\HP\\ci-project-main\\ci-project-main\\MVC\\CI-Platform\\CI-Platform_web.Repositories\\CI-Platform_web.Repositories.csproj": {
-              "projectPath": "D:\\HP\\ci-project-main\\ci-project-main\\MVC\\CI-Platform\\CI-Platform_web.Repositories\\CI-Platform_web.Repositories.csproj"
+            "D:\\HP\\MVC\\CI-Platform_web.Repositories\\CI-Platform_web.Repositories.csproj": {
+              "projectPath": "D:\\HP\\MVC\\CI-Platform_web.Repositories\\CI-Platform_web.Repositories.csproj"
             }
           }
         }

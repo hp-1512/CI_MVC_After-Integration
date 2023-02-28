@@ -4,13 +4,13 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CI_Platform_web.Entities.DataModels;
 
-public partial class userDbContext : DbContext
+public partial class CIDbContext : DbContext
 {
-    public userDbContext()
+    public CIDbContext()
     {
     }
 
-    public userDbContext(DbContextOptions<userDbContext> options)
+    public CIDbContext(DbContextOptions<CIDbContext> options)
         : base(options)
     {
     }

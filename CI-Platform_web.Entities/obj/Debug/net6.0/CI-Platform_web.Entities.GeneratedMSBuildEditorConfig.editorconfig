@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CI_Platform_web.Entities
-build_property.ProjectDir = D:\HP\ci-project-main\ci-project-main\MVC\CI-Platform\CI-Platform_web.Entities\
+build_property.ProjectDir = D:\HP\MVC\CI-Platform_web.Entities\
